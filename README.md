@@ -1,5 +1,5 @@
 # CarMatcher
-# 🚗 Car Matcher - Smart Vehicle Selection App
+# Car Matcher - Smart Vehicle Selection App
 
 A comprehensive No-Code solution designed to help users find their ideal vehicle based on personal preferences, budget, and lifestyle needs. This project showcases the full product cycle from detailed characterization to a functional application.
 
@@ -10,16 +10,16 @@ A comprehensive No-Code solution designed to help users find their ideal vehicle
 
 ---
 
-### 📋 Project Overview
+###  Project Overview
 Car Matcher simplifies the car-buying journey. By analyzing user inputs through a custom-built logic engine, the app filters and suggests the best automotive matches, providing a seamless user experience (UX).
 
-### 🛠️ Key Features & Tools
+### Key Features & Tools
 * **Base44 Platform:** End-to-end development of the functional application logic and UI.
 * **Product Characterization (Notion):** In-depth documentation including user personas, user flows, and functional requirements.
 * **Smart Filtering:** Dynamic matching based on budget, car type, and specific user constraints.
 
 ---
 
-### 🚀 How to View
+###  How to View
 1. Click the **Live App** button above to interact with the application.
 2. Click the **Characterization** button to review the full product research and design process on Notion.
